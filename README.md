@@ -11,7 +11,9 @@
 ### Ссылки
 
 - Репозиторий: [https://github.com/ArtemiyAvdonin/ArtemiyAvdonin.github.io](https://github.com/ArtemiyAvdonin/ArtemiyAvdonin.github.io)
-- Сайт: [[https://ArtemiyAvdonin.github.io](https://ArtemiyAvdonin.github.io](https://juntema.github.io/ArtemiyAvdonin.github.io/))
 
+## Сайт
+
+[Открыть сайт](https://juntema.github.io/ArtemiyAvdonin.github.io)
 ---
 © 2025 Артемий Авдонин
